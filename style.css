@@ -1,0 +1,18 @@
+.stopwatchDisplay  {
+    margin: auto;
+    position: absolute;
+    height: 500px;
+    max-width:50%;
+    width: 0px;
+    top: 32%;
+    font-size: 40x;
+    left: 48.5%;
+}
+
+.buttons {
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 40%;
+    left: 53%;
+}
